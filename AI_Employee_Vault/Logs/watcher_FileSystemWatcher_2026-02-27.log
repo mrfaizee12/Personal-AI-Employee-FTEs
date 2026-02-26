@@ -1,0 +1,28 @@
+2026-02-27 03:14:59,363 - FileSystemWatcher - INFO - Watching folder: G:\gitub-desktop\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-27 03:14:59,369 - FileSystemWatcher - INFO - Created action file for: test_file.txt
+2026-02-27 03:14:59,372 - FileSystemWatcher - INFO - Created action file for: test_file2.txt
+2026-02-27 03:19:35,145 - FileSystemWatcher - INFO - Watching folder: Inbox
+2026-02-27 03:19:35,145 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-27 03:19:35,146 - FileSystemWatcher - INFO - Vault path: .
+2026-02-27 03:19:35,146 - FileSystemWatcher - INFO - Check interval: 30s
+2026-02-27 03:32:29,473 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-02-27 03:32:32,650 - FileSystemWatcher - INFO - Watching folder: Inbox
+2026-02-27 03:32:32,651 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-27 03:32:32,651 - FileSystemWatcher - INFO - Vault path: .
+2026-02-27 03:32:32,651 - FileSystemWatcher - INFO - Check interval: 30s
+2026-02-27 03:38:02,680 - FileSystemWatcher - INFO - Created action file for: test_task.txt
+2026-02-27 03:40:32,699 - FileSystemWatcher - INFO - Created action file for: home.txt
+2026-02-27 03:56:32,744 - FileSystemWatcher - INFO - Created action file for: happy.txt
+2026-02-27 04:05:33,048 - FileSystemWatcher - INFO - Watching folder: G:\gitub-desktop\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-27 04:05:33,051 - FileSystemWatcher - INFO - Created action file for: happy.md
+2026-02-27 04:05:33,053 - FileSystemWatcher - INFO - Created action file for: home.md
+2026-02-27 04:05:33,055 - FileSystemWatcher - INFO - Created action file for: test_markdown.md
+2026-02-27 04:06:22,026 - FileSystemWatcher - INFO - FileSystemWatcher stopped by user
+2026-02-27 04:07:06,656 - FileSystemWatcher - INFO - Watching folder: G:\gitub-desktop\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-27 04:07:50,694 - FileSystemWatcher - INFO - Watching folder: G:\gitub-desktop\Personal-AI-Employee-FTEs\AI_Employee_Vault\Inbox
+2026-02-27 04:07:50,701 - FileSystemWatcher - INFO - Created action file for: mark.md
+2026-02-27 04:07:57,859 - FileSystemWatcher - INFO - Watching folder: Inbox
+2026-02-27 04:07:57,860 - FileSystemWatcher - INFO - Starting FileSystemWatcher
+2026-02-27 04:07:57,860 - FileSystemWatcher - INFO - Vault path: .
+2026-02-27 04:07:57,860 - FileSystemWatcher - INFO - Check interval: 30s
+2026-02-27 04:08:27,872 - FileSystemWatcher - INFO - Created action file for: FILE_20260227_034032_home.txt.meta.md

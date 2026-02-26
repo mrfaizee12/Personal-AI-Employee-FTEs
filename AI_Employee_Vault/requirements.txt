@@ -1,0 +1,26 @@
+# AI Employee - Bronze Tier Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies (Bronze tier - minimal)
+# No external dependencies required for basic file system watcher
+
+# Optional: For advanced watchers (Silver/Gold tier)
+# watchdog>=3.0.0       # File system events (alternative to polling)
+# google-api-python-client>=2.0.0  # Gmail API
+# google-auth-httplib2>=0.1.0      # Gmail authentication
+# google-auth-oauthlib>=0.7.0      # OAuth for Gmail
+
+# For WhatsApp watcher (requires Playwright)
+# playwright>=1.40.0
+
+# For MCP servers (Silver/Gold tier)
+# @modelcontextprotocol/sdk (Node.js package)
+
+# For production deployment (Platinum tier)
+# pm2 (Node.js process manager)
+# requests>=2.31.0       # HTTP requests for API calls
+
+# Development utilities
+# pytest>=7.0.0          # Testing
+# black>=23.0.0          # Code formatting
+# flake8>=6.0.0          # Linting
