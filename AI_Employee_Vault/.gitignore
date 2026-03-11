@@ -1,0 +1,13 @@
+# Security files - DO NOT PUSH
+credentials.json
+token.json
+**/token.json
+.env
+
+# Log files
+Logs/
+*.log
+Logs
+.linkedin_session
+linkedin_session
+Logs

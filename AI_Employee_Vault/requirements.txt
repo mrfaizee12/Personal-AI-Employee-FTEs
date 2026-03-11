@@ -1,26 +1,34 @@
-# AI Employee - Bronze Tier Dependencies
+# AI Employee - Silver Tier Dependencies
 # Install with: pip install -r requirements.txt
 
-# Core dependencies (Bronze tier - minimal)
-# No external dependencies required for basic file system watcher
+# Core dependencies (required for all tiers)
+# No external dependencies for basic file system watcher
 
-# Optional: For advanced watchers (Silver/Gold tier)
-# watchdog>=3.0.0       # File system events (alternative to polling)
-# google-api-python-client>=2.0.0  # Gmail API
-# google-auth-httplib2>=0.1.0      # Gmail authentication
-# google-auth-oauthlib>=0.7.0      # OAuth for Gmail
+# Silver Tier Dependencies
 
-# For WhatsApp watcher (requires Playwright)
-# playwright>=1.40.0
+# Gmail API (for Gmail Watcher and Email MCP)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.7.0
 
-# For MCP servers (Silver/Gold tier)
-# @modelcontextprotocol/sdk (Node.js package)
+# MCP Server support
+mcp>=1.0.0
 
-# For production deployment (Platinum tier)
-# pm2 (Node.js process manager)
-# requests>=2.31.0       # HTTP requests for API calls
+# Scheduling (cross-platform)
+APScheduler>=3.10.0
+
+# Optional: For advanced watchers
+# playwright>=1.40.0          # WhatsApp/Web automation (used by LinkedIn poster)
 
 # Development utilities
-# pytest>=7.0.0          # Testing
-# black>=23.0.0          # Code formatting
-# flake8>=6.0.0          # Linting
+# pytest>=7.0.0                # Testing
+# black>=23.0.0                # Code formatting
+# flake8>=6.0.0                # Linting
+
+# Installation Commands:
+# 
+# Silver Tier:
+#   pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib mcp APScheduler
+#
+# All at once:
+#   pip install -r requirements.txt

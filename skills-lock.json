@@ -5,6 +5,31 @@
       "source": "bilalmk/todo_correct",
       "sourceType": "github",
       "computedHash": "f73daf75e38650c202e61f652a26578db157f8423e8bcf283bcd93b441641461"
+    },
+    "gmail-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-silver-tier"
+    },
+    "email-mcp-server": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-silver-tier"
+    },
+    "hitl-approval-workflow": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-silver-tier"
+    },
+    "plan-generator": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-silver-tier"
+    },
+    "linkedin-poster": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-silver-tier"
     }
   }
 }
